@@ -1,0 +1,1 @@
+// Allow users to edit, delete or react to messages!

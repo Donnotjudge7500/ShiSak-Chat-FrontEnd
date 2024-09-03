@@ -1,0 +1,1 @@
+// Inform users about important system events or updates!

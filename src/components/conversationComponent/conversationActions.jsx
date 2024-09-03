@@ -1,0 +1,1 @@
+// Allow users to manange the conversations, such as adding participants, changing settings, or leaving the conversation!

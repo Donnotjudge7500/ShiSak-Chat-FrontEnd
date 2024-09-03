@@ -1,0 +1,1 @@
+// Allow users to eaisly scroll bottom to the chat window!

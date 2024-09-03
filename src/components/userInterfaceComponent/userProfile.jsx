@@ -1,0 +1,1 @@
+// Show user details such as username, profile picture, and status!

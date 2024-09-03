@@ -1,0 +1,1 @@
+// Provide options for customizing the chat experience, such as changing themes, notification preferences, or language settings!

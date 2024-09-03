@@ -1,0 +1,1 @@
+// Notify users of new messages when they are not actively viewing the chat!

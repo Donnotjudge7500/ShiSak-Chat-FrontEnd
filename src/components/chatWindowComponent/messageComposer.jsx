@@ -1,0 +1,1 @@
+// Provides option for composing messages, such as text input, file attachment and emoji picker!
